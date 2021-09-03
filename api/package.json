@@ -4,7 +4,7 @@
   "private": true,
   "main": "server.js",
   "author": "Ryoishin",
-  "github": "https://github.com/Ryoishin",
+  "github": "https://github.com/TeamRyoishin",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
